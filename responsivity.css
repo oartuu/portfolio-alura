@@ -19,6 +19,13 @@
     
 }
 @media (max-width: 480px){
+    .textos h1{
+        font-size:1.5em;
+    }
+    .textos p{
+        font-size:0.8em;
+    }
+    
     .foto img{
         height: 30vh;
         
