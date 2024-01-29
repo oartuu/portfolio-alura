@@ -1,0 +1,35 @@
+@media (max-width:1230px){
+    .redes .link{
+        width: 100px;
+    }
+    .foto img{
+        height: 55vh;
+    }
+}
+
+@media (max-width: 900px){
+    .foto img{
+        height: 40vh;
+    }
+}
+@media (max-width: 900px){
+    main{
+        flex-direction: column-reverse;
+    }
+    
+}
+@media (max-width: 480px){
+    .foto img{
+        height: 30vh;
+        
+    }
+}
+@media (max-width:430px){
+    main{
+        width: 100%;
+        margin-left: 0;
+    }
+    .link a {
+        font-size: 0.8em;
+    }
+}
